@@ -32,7 +32,7 @@
 		28379CF62EE9567B00985B34 /* Haodjnm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Haodjnm.xcframework; sourceTree = "<group>"; };
 		D5087A37E8D193AD69C2FD23 /* Pods-Bridge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bridge.release.xcconfig"; path = "Target Support Files/Pods-Bridge/Pods-Bridge.release.xcconfig"; sourceTree = "<group>"; };
 		E96D0BC88AB6A9A82DCF6712 /* Pods-Bridge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bridge.debug.xcconfig"; path = "Target Support Files/Pods-Bridge/Pods-Bridge.debug.xcconfig"; sourceTree = "<group>"; };
-		FEE23BD02EDAD88100432CA8 /* Bridge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bridge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEE23BD02EDAD88100432CA8 /* BridgeUN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BridgeUN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEE23BEC2EDAD89300432CA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEE23BEE2EDAD89300432CA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FEE23BEF2EDAD89300432CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -103,7 +103,7 @@
 		FEE23BD12EDAD88100432CA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FEE23BD02EDAD88100432CA8 /* Bridge.app */,
+				FEE23BD02EDAD88100432CA8 /* BridgeUN.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -192,7 +192,7 @@
 			);
 			name = Bridge;
 			productName = Bridge;
-			productReference = FEE23BD02EDAD88100432CA8 /* Bridge.app */;
+			productReference = FEE23BD02EDAD88100432CA8 /* BridgeUN.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -360,7 +360,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Bridge.matc;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BridgeUN;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -400,7 +400,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Bridge.matc;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BridgeUN;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
