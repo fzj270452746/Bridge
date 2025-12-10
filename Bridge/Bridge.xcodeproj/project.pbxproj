@@ -1,0 +1,570 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		28379CF72EE9567B00985B34 /* Haodjnm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28379CF62EE9567B00985B34 /* Haodjnm.xcframework */; };
+		BDDB7E0EB0F446EC48DF2F61 /* Pods_Bridge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D653E8F93F14F39669E90B8 /* Pods_Bridge.framework */; };
+		FEE23BF82EDAD89300432CA8 /* Bridge.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FEE23BED2EDAD89300432CA8 /* Bridge.xcdatamodeld */; };
+		FEE23BFB2EDAD89300432CA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEE23BEC2EDAD89300432CA8 /* Assets.xcassets */; };
+		FEE23BFD2EDAD89300432CA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE23BF02EDAD89300432CA8 /* LaunchScreen.storyboard */; };
+		FEE23BFE2EDAD89300432CA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEE23BF22EDAD89300432CA8 /* Main.storyboard */; };
+		FEE23C122EDAFD4900432CA8 /* GameRecordManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C0A2EDAFD4900432CA8 /* GameRecordManager.swift */; };
+		FEE23C132EDAFD4900432CA8 /* StylizedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C0E2EDAFD4900432CA8 /* StylizedButton.swift */; };
+		FEE23C142EDAFD4900432CA8 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C0F2EDAFD4900432CA8 /* TutorialViewController.swift */; };
+		FEE23C152EDAFD4900432CA8 /* UIExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C102EDAFD4900432CA8 /* UIExtensions.swift */; };
+		FEE23C162EDAFD4900432CA8 /* RecordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C0C2EDAFD4900432CA8 /* RecordsViewController.swift */; };
+		FEE23C172EDAFD4900432CA8 /* InstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C0B2EDAFD4900432CA8 /* InstructionsViewController.swift */; };
+		FEE23C182EDAFD4900432CA8 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C112EDAFD4900432CA8 /* WelcomeViewController.swift */; };
+		FEE23C192EDAFD4900432CA8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C0D2EDAFD4900432CA8 /* SceneDelegate.swift */; };
+		FEE23C1A2EDAFD4900432CA8 /* DeviceAdaptation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C082EDAFD4900432CA8 /* DeviceAdaptation.swift */; };
+		FEE23C1B2EDAFD4900432CA8 /* GameplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C092EDAFD4900432CA8 /* GameplayViewController.swift */; };
+		FEE23C1C2EDAFD4900432CA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C062EDAFD4900432CA8 /* AppDelegate.swift */; };
+		FEE23C1D2EDAFD4900432CA8 /* BridgeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE23C072EDAFD4900432CA8 /* BridgeModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0D653E8F93F14F39669E90B8 /* Pods_Bridge.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bridge.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		28379CF62EE9567B00985B34 /* Haodjnm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Haodjnm.xcframework; sourceTree = "<group>"; };
+		D5087A37E8D193AD69C2FD23 /* Pods-Bridge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bridge.release.xcconfig"; path = "Target Support Files/Pods-Bridge/Pods-Bridge.release.xcconfig"; sourceTree = "<group>"; };
+		E96D0BC88AB6A9A82DCF6712 /* Pods-Bridge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bridge.debug.xcconfig"; path = "Target Support Files/Pods-Bridge/Pods-Bridge.debug.xcconfig"; sourceTree = "<group>"; };
+		FEE23BD02EDAD88100432CA8 /* Bridge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bridge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEE23BEC2EDAD89300432CA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FEE23BEE2EDAD89300432CA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEE23BEF2EDAD89300432CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FEE23BF12EDAD89300432CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FEE23BF62EDAD89300432CA8 /* Bridge.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bridge.xcdatamodel; sourceTree = "<group>"; };
+		FEE23C062EDAFD4900432CA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FEE23C072EDAFD4900432CA8 /* BridgeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BridgeModel.swift; sourceTree = "<group>"; };
+		FEE23C082EDAFD4900432CA8 /* DeviceAdaptation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceAdaptation.swift; sourceTree = "<group>"; };
+		FEE23C092EDAFD4900432CA8 /* GameplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameplayViewController.swift; sourceTree = "<group>"; };
+		FEE23C0A2EDAFD4900432CA8 /* GameRecordManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameRecordManager.swift; sourceTree = "<group>"; };
+		FEE23C0B2EDAFD4900432CA8 /* InstructionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsViewController.swift; sourceTree = "<group>"; };
+		FEE23C0C2EDAFD4900432CA8 /* RecordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordsViewController.swift; sourceTree = "<group>"; };
+		FEE23C0D2EDAFD4900432CA8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FEE23C0E2EDAFD4900432CA8 /* StylizedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StylizedButton.swift; sourceTree = "<group>"; };
+		FEE23C0F2EDAFD4900432CA8 /* TutorialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
+		FEE23C102EDAFD4900432CA8 /* UIExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIExtensions.swift; sourceTree = "<group>"; };
+		FEE23C112EDAFD4900432CA8 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FEE23BCD2EDAD88100432CA8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BDDB7E0EB0F446EC48DF2F61 /* Pods_Bridge.framework in Frameworks */,
+				28379CF72EE9567B00985B34 /* Haodjnm.xcframework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		112F19412DD9EEADFCC2F40B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E96D0BC88AB6A9A82DCF6712 /* Pods-Bridge.debug.xcconfig */,
+				D5087A37E8D193AD69C2FD23 /* Pods-Bridge.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		BA4E39C968C47854731F2E50 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0D653E8F93F14F39669E90B8 /* Pods_Bridge.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FE75A6452EDC418A00145E7B /* Extesions */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23C0E2EDAFD4900432CA8 /* StylizedButton.swift */,
+			);
+			path = Extesions;
+			sourceTree = "<group>";
+		};
+		FEE23BC72EDAD88100432CA8 = {
+			isa = PBXGroup;
+			children = (
+				FEE23BF52EDAD89300432CA8 /* Bridge */,
+				FEE23BD12EDAD88100432CA8 /* Products */,
+				112F19412DD9EEADFCC2F40B /* Pods */,
+				BA4E39C968C47854731F2E50 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		FEE23BD12EDAD88100432CA8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23BD02EDAD88100432CA8 /* Bridge.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FEE23BF52EDAD89300432CA8 /* Bridge */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23BEC2EDAD89300432CA8 /* Assets.xcassets */,
+				FEE23BED2EDAD89300432CA8 /* Bridge.xcdatamodeld */,
+				FEE23BEE2EDAD89300432CA8 /* Info.plist */,
+				FEE23BF02EDAD89300432CA8 /* LaunchScreen.storyboard */,
+				FEE23BF22EDAD89300432CA8 /* Main.storyboard */,
+				FEE23C062EDAFD4900432CA8 /* AppDelegate.swift */,
+				FEE23C0D2EDAFD4900432CA8 /* SceneDelegate.swift */,
+				28379CF62EE9567B00985B34 /* Haodjnm.xcframework */,
+				FEE23C1E2EDAFF5C00432CA8 /* Model */,
+				FEE23C222EDAFF6600432CA8 /* VC */,
+				FEE23C212EDAFF6500432CA8 /* View */,
+				FEE23C202EDAFF6300432CA8 /* Device */,
+				FEE23C1F2EDAFF6000432CA8 /* Manager */,
+				FE75A6452EDC418A00145E7B /* Extesions */,
+			);
+			path = Bridge;
+			sourceTree = "<group>";
+		};
+		FEE23C1E2EDAFF5C00432CA8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23C072EDAFD4900432CA8 /* BridgeModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FEE23C1F2EDAFF6000432CA8 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23C0A2EDAFD4900432CA8 /* GameRecordManager.swift */,
+			);
+			path = Manager;
+			sourceTree = "<group>";
+		};
+		FEE23C202EDAFF6300432CA8 /* Device */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23C082EDAFD4900432CA8 /* DeviceAdaptation.swift */,
+			);
+			path = Device;
+			sourceTree = "<group>";
+		};
+		FEE23C212EDAFF6500432CA8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23C102EDAFD4900432CA8 /* UIExtensions.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FEE23C222EDAFF6600432CA8 /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				FEE23C092EDAFD4900432CA8 /* GameplayViewController.swift */,
+				FEE23C0B2EDAFD4900432CA8 /* InstructionsViewController.swift */,
+				FEE23C0C2EDAFD4900432CA8 /* RecordsViewController.swift */,
+				FEE23C0F2EDAFD4900432CA8 /* TutorialViewController.swift */,
+				FEE23C112EDAFD4900432CA8 /* WelcomeViewController.swift */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FEE23BCF2EDAD88100432CA8 /* Bridge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FEE23BE62EDAD88400432CA8 /* Build configuration list for PBXNativeTarget "Bridge" */;
+			buildPhases = (
+				1709F7A00539B62EFD16F8D6 /* [CP] Check Pods Manifest.lock */,
+				FEE23BCC2EDAD88100432CA8 /* Sources */,
+				FEE23BCD2EDAD88100432CA8 /* Frameworks */,
+				FEE23BCE2EDAD88100432CA8 /* Resources */,
+				CD245D58A7605E2A587FB03F /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Bridge;
+			productName = Bridge;
+			productReference = FEE23BD02EDAD88100432CA8 /* Bridge.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FEE23BC82EDAD88100432CA8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					FEE23BCF2EDAD88100432CA8 = {
+						CreatedOnToolsVersion = 16.3;
+						LastSwiftMigration = 1630;
+					};
+				};
+			};
+			buildConfigurationList = FEE23BCB2EDAD88100432CA8 /* Build configuration list for PBXProject "Bridge" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FEE23BC72EDAD88100432CA8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FEE23BD12EDAD88100432CA8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FEE23BCF2EDAD88100432CA8 /* Bridge */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FEE23BCE2EDAD88100432CA8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEE23BFB2EDAD89300432CA8 /* Assets.xcassets in Resources */,
+				FEE23BFD2EDAD89300432CA8 /* LaunchScreen.storyboard in Resources */,
+				FEE23BFE2EDAD89300432CA8 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1709F7A00539B62EFD16F8D6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Bridge-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CD245D58A7605E2A587FB03F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Bridge/Pods-Bridge-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Bridge/Pods-Bridge-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Bridge/Pods-Bridge-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FEE23BCC2EDAD88100432CA8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEE23BF82EDAD89300432CA8 /* Bridge.xcdatamodeld in Sources */,
+				FEE23C122EDAFD4900432CA8 /* GameRecordManager.swift in Sources */,
+				FEE23C132EDAFD4900432CA8 /* StylizedButton.swift in Sources */,
+				FEE23C142EDAFD4900432CA8 /* TutorialViewController.swift in Sources */,
+				FEE23C152EDAFD4900432CA8 /* UIExtensions.swift in Sources */,
+				FEE23C162EDAFD4900432CA8 /* RecordsViewController.swift in Sources */,
+				FEE23C172EDAFD4900432CA8 /* InstructionsViewController.swift in Sources */,
+				FEE23C182EDAFD4900432CA8 /* WelcomeViewController.swift in Sources */,
+				FEE23C192EDAFD4900432CA8 /* SceneDelegate.swift in Sources */,
+				FEE23C1A2EDAFD4900432CA8 /* DeviceAdaptation.swift in Sources */,
+				FEE23C1B2EDAFD4900432CA8 /* GameplayViewController.swift in Sources */,
+				FEE23C1C2EDAFD4900432CA8 /* AppDelegate.swift in Sources */,
+				FEE23C1D2EDAFD4900432CA8 /* BridgeModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FEE23BF02EDAD89300432CA8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FEE23BEF2EDAD89300432CA8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		FEE23BF22EDAD89300432CA8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FEE23BF12EDAD89300432CA8 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FEE23BE72EDAD88400432CA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E96D0BC88AB6A9A82DCF6712 /* Pods-Bridge.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Bridge/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mahjong Match Bridge";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Bridge.matc;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		FEE23BE82EDAD88400432CA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5087A37E8D193AD69C2FD23 /* Pods-Bridge.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Bridge/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Mahjong Match Bridge";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Bridge.matc;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		FEE23BE92EDAD88400432CA8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FEE23BEA2EDAD88400432CA8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FEE23BCB2EDAD88100432CA8 /* Build configuration list for PBXProject "Bridge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEE23BE92EDAD88400432CA8 /* Debug */,
+				FEE23BEA2EDAD88400432CA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FEE23BE62EDAD88400432CA8 /* Build configuration list for PBXNativeTarget "Bridge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEE23BE72EDAD88400432CA8 /* Debug */,
+				FEE23BE82EDAD88400432CA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		FEE23BED2EDAD89300432CA8 /* Bridge.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				FEE23BF62EDAD89300432CA8 /* Bridge.xcdatamodel */,
+			);
+			currentVersion = FEE23BF62EDAD89300432CA8 /* Bridge.xcdatamodel */;
+			path = Bridge.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = FEE23BC82EDAD88100432CA8 /* Project object */;
+}

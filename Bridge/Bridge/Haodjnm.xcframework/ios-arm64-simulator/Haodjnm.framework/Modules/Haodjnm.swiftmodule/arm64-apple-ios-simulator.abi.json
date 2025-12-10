@@ -1,0 +1,3622 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "Haodjnm",
+    "printedName": "Haodjnm",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Haodjnm"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Haodjnm"
+      },
+      {
+        "kind": "Function",
+        "name": "HuansioGtyuu",
+        "printedName": "HuansioGtyuu(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:7Haodjnm12HuansioGtyuuySSSgSSF",
+        "mangledName": "$s7Haodjnm12HuansioGtyuuySSSgSSF",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kCGstyhs",
+        "printedName": "kCGstyhs",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:7Haodjnm8kCGstyhsSSvp",
+        "mangledName": "$s7Haodjnm8kCGstyhsSSvp",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "kP9anshe",
+        "printedName": "kP9anshe",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:7Haodjnm8kP9ansheSSvp",
+        "mangledName": "$s7Haodjnm8kP9ansheSSvp",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "Dinsiis",
+        "printedName": "Dinsiis()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:7Haodjnm7DinsiisyyF",
+        "mangledName": "$s7Haodjnm7DinsiisyyF",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "losiemsh",
+        "printedName": "losiemsh()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:7Haodjnm8losiemshyyF",
+        "mangledName": "$s7Haodjnm8losiemshyyF",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "XunhsiLoams",
+        "printedName": "XunhsiLoams(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dpoma",
+            "printedName": "Haodjnm.Dpoma",
+            "usr": "s:7Haodjnm5DpomaV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:7Haodjnm11XunhsiLoamsyyAA5DpomaVF",
+        "mangledName": "$s7Haodjnm11XunhsiLoamsyyAA5DpomaVF",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "bcjausXIjs",
+        "printedName": "bcjausXIjs(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dpoma",
+            "printedName": "Haodjnm.Dpoma",
+            "usr": "s:7Haodjnm5DpomaV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:7Haodjnm10bcjausXIjsyyAA5DpomaVF",
+        "mangledName": "$s7Haodjnm10bcjausXIjsyyAA5DpomaVF",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Dpoma",
+        "printedName": "Dpoma",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "aksoes",
+            "printedName": "aksoes",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm5DpomaV6aksoesSSSgvp",
+            "mangledName": "$s7Haodjnm5DpomaV6aksoesSSSgvp",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm5DpomaV6aksoesSSSgvg",
+                "mangledName": "$s7Haodjnm5DpomaV6aksoesSSSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dpoemjs",
+            "printedName": "dpoemjs",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm5DpomaV7dpoemjsSSSgvp",
+            "mangledName": "$s7Haodjnm5DpomaV7dpoemjsSSSgvp",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm5DpomaV7dpoemjsSSSgvg",
+                "mangledName": "$s7Haodjnm5DpomaV7dpoemjsSSSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tdajns",
+            "printedName": "tdajns",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm5DpomaV6tdajnsSSSgvp",
+            "mangledName": "$s7Haodjnm5DpomaV6tdajnsSSSgvp",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm5DpomaV6tdajnsSSSgvg",
+                "mangledName": "$s7Haodjnm5DpomaV6tdajnsSSSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "ciowuw",
+            "printedName": "ciowuw",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm5DpomaV6ciowuwSSSgvp",
+            "mangledName": "$s7Haodjnm5DpomaV6ciowuwSSSgvp",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm5DpomaV6ciowuwSSSgvg",
+                "mangledName": "$s7Haodjnm5DpomaV6ciowuwSSSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "maksoz",
+            "printedName": "maksoz",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm5DpomaV6maksozSSSgvp",
+            "mangledName": "$s7Haodjnm5DpomaV6maksozSSSgvp",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm5DpomaV6maksozSSSgvg",
+                "mangledName": "$s7Haodjnm5DpomaV6maksozSSSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(aksoes:dpoemjs:tdajns:ciowuw:maksoz:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dpoma",
+                "printedName": "Haodjnm.Dpoma",
+                "usr": "s:7Haodjnm5DpomaV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7Haodjnm5DpomaV6aksoes7dpoemjs6tdajns6ciowuw6maksozACSSSg_A4Itcfc",
+            "mangledName": "$s7Haodjnm5DpomaV6aksoes7dpoemjs6tdajns6ciowuw6maksozACSSSg_A4Itcfc",
+            "moduleName": "Haodjnm",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dpoma",
+                "printedName": "Haodjnm.Dpoma",
+                "usr": "s:7Haodjnm5DpomaV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7Haodjnm5DpomaV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s7Haodjnm5DpomaV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "Haodjnm",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7Haodjnm5DpomaV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s7Haodjnm5DpomaV6encode2toys7Encoder_p_tKF",
+            "moduleName": "Haodjnm",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:7Haodjnm5DpomaV",
+        "mangledName": "$s7Haodjnm5DpomaV",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "Idmeiosk",
+        "printedName": "Idmeiosk()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:7Haodjnm8IdmeioskSbyF",
+        "mangledName": "$s7Haodjnm8IdmeioskSbyF",
+        "moduleName": "Haodjnm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Haodjnm"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "Haodjnm"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FdoinahFajsViewController",
+        "printedName": "FdoinahFajsViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "uasoan",
+            "printedName": "uasoan",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Haodjnm.Dpoma?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dpoma",
+                    "printedName": "Haodjnm.Dpoma",
+                    "usr": "s:7Haodjnm5DpomaV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvp",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvp",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Haodjnm.Dpoma?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dpoma",
+                        "printedName": "Haodjnm.Dpoma",
+                        "usr": "s:7Haodjnm5DpomaV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvg",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Haodjnm.Dpoma?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dpoma",
+                        "printedName": "Haodjnm.Dpoma",
+                        "usr": "s:7Haodjnm5DpomaV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvs",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvs",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvM",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6uasoanAA5DpomaVSgvM",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "zftsyb",
+            "printedName": "zftsyb",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvp",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvp",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvg",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvs",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvs",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvM",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC6zftsybSo05WKWebD0CSgvM",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)viewDidLoad",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC11viewDidLoadyyF",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)viewDidLayoutSubviews",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC21viewDidLayoutSubviewsyyF",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctF",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC03webD0_09createWebD4With3for14windowFeaturesSo05WKWebD0CSgAI_So0mD13ConfigurationCSo18WKNavigationActionCSo08WKWindowL0CtF",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webViewDidClose",
+            "printedName": "webViewDidClose(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)webViewDidClose:",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC03webD8DidCloseyySo05WKWebD0CF",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "objc_name": "webViewDidClose:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(py)shouldAutorotate",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC16shouldAutorotateSbvp",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)shouldAutorotate",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC16shouldAutorotateSbvg",
+                "moduleName": "Haodjnm",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "Haodjnm",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FdoinahFajsViewController",
+                "printedName": "Haodjnm.FdoinahFajsViewController",
+                "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Haodjnm.FdoinahFajsViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FdoinahFajsViewController",
+                    "printedName": "Haodjnm.FdoinahFajsViewController",
+                    "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController(im)initWithCoder:",
+            "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Haodjnm@objc(cs)FdoinahFajsViewController",
+        "mangledName": "$s7Haodjnm25FdoinahFajsViewControllerC",
+        "moduleName": "Haodjnm",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Haodjnm"
+      },
+      {
+        "kind": "Import",
+        "name": "Nuke",
+        "printedName": "Nuke",
+        "declKind": "Import",
+        "moduleName": "Haodjnm"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PermainanBlokView",
+        "printedName": "PermainanBlokView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PermainanBlokView",
+                "printedName": "Haodjnm.PermainanBlokView",
+                "usr": "c:@M@Haodjnm@objc(cs)PermainanBlokView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)PermainanBlokView(im)initWithFrame:",
+            "mangledName": "$s7Haodjnm17PermainanBlokViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Haodjnm.PermainanBlokView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PermainanBlokView",
+                    "printedName": "Haodjnm.PermainanBlokView",
+                    "usr": "c:@M@Haodjnm@objc(cs)PermainanBlokView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)PermainanBlokView(im)initWithCoder:",
+            "mangledName": "$s7Haodjnm17PermainanBlokViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)PermainanBlokView(im)layoutSubviews",
+            "mangledName": "$s7Haodjnm17PermainanBlokViewC14layoutSubviewsyyF",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "mainSemulaDipijat",
+            "printedName": "mainSemulaDipijat()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7Haodjnm17PermainanBlokViewC17mainSemulaDipijatyyF",
+            "mangledName": "$s7Haodjnm17PermainanBlokViewC17mainSemulaDipijatyyF",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Haodjnm@objc(cs)PermainanBlokView",
+        "mangledName": "$s7Haodjnm17PermainanBlokViewC",
+        "moduleName": "Haodjnm",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DelegasiKotakDialogPermainan",
+            "printedName": "DelegasiKotakDialogPermainan",
+            "usr": "s:7Haodjnm28DelegasiKotakDialogPermainanP",
+            "mangledName": "$s7Haodjnm28DelegasiKotakDialogPermainanP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DelegasiKotakDialogPermainan",
+        "printedName": "DelegasiKotakDialogPermainan",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "mainSemulaDipijat",
+            "printedName": "mainSemulaDipijat()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7Haodjnm28DelegasiKotakDialogPermainanP17mainSemulaDipijatyyF",
+            "mangledName": "$s7Haodjnm28DelegasiKotakDialogPermainanP17mainSemulaDipijatyyF",
+            "moduleName": "Haodjnm",
+            "genericSig": "<τ_0_0 where τ_0_0 : Haodjnm.DelegasiKotakDialogPermainan>",
+            "sugared_genericSig": "<Self where Self : Haodjnm.DelegasiKotakDialogPermainan>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7Haodjnm28DelegasiKotakDialogPermainanP",
+        "mangledName": "$s7Haodjnm28DelegasiKotakDialogPermainanP",
+        "moduleName": "Haodjnm",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KotakDialogPermainan",
+        "printedName": "KotakDialogPermainan",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any Haodjnm.DelegasiKotakDialogPermainan)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvp",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership"
+            ],
+            "fixedbinaryorder": 0,
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any Haodjnm.DelegasiKotakDialogPermainan)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DelegasiKotakDialogPermainan",
+                        "printedName": "any Haodjnm.DelegasiKotakDialogPermainan",
+                        "usr": "s:7Haodjnm28DelegasiKotakDialogPermainanP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvg",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any Haodjnm.DelegasiKotakDialogPermainan)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DelegasiKotakDialogPermainan",
+                        "printedName": "any Haodjnm.DelegasiKotakDialogPermainan",
+                        "usr": "s:7Haodjnm28DelegasiKotakDialogPermainanP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvs",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvs",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvM",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC8delegateAA08DelegasibcD0_pSgvM",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "skorSemasa",
+            "printedName": "skorSemasa",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC10skorSemasaSivp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC10skorSemasaSivp",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC10skorSemasaSivg",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC10skorSemasaSivg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC10skorSemasaSivs",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC10skorSemasaSivs",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC10skorSemasaSivM",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC10skorSemasaSivM",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "skorTerbaik",
+            "printedName": "skorTerbaik",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC11skorTerbaikSivp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC11skorTerbaikSivp",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC11skorTerbaikSivg",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC11skorTerbaikSivg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC11skorTerbaikSivs",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC11skorTerbaikSivs",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC11skorTerbaikSivM",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC11skorTerbaikSivM",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isRekodBaru",
+            "printedName": "isRekodBaru",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvp",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvg",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvg",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvs",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvs",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvM",
+                "mangledName": "$s7Haodjnm20KotakDialogPermainanC11isRekodBaruSbvM",
+                "moduleName": "Haodjnm",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "kotakDialog",
+            "printedName": "kotakDialog",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC05kotakC033_1C3476E6CDC097FFC0294C7A692107DBLLSo6UIViewCvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC05kotakC033_1C3476E6CDC097FFC0294C7A692107DBLLSo6UIViewCvp",
+            "moduleName": "Haodjnm",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "labelKeputusan",
+            "printedName": "labelKeputusan",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC14labelKeputusan33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC14labelKeputusan33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "moduleName": "Haodjnm",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "labelSkor",
+            "printedName": "labelSkor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC9labelSkor33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC9labelSkor33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "moduleName": "Haodjnm",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "labelSkorTerbaik",
+            "printedName": "labelSkorTerbaik",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC16labelSkorTerbaik33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC16labelSkorTerbaik33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "moduleName": "Haodjnm",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 7,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "butangMainSemula",
+            "printedName": "butangMainSemula",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC16butangMainSemula33_1C3476E6CDC097FFC0294C7A692107DBLLSo8UIButtonCvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC16butangMainSemula33_1C3476E6CDC097FFC0294C7A692107DBLLSo8UIButtonCvp",
+            "moduleName": "Haodjnm",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "labelRekodBaru",
+            "printedName": "labelRekodBaru",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7Haodjnm20KotakDialogPermainanC14labelRekodBaru33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC14labelRekodBaru33_1C3476E6CDC097FFC0294C7A692107DBLLSo7UILabelCvp",
+            "moduleName": "Haodjnm",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 9,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan(im)viewDidLoad",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC11viewDidLoadyyF",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan(im)viewDidLayoutSubviews",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC21viewDidLayoutSubviewsyyF",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KotakDialogPermainan",
+                "printedName": "Haodjnm.KotakDialogPermainan",
+                "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan(im)initWithNibName:bundle:",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Haodjnm.KotakDialogPermainan?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KotakDialogPermainan",
+                    "printedName": "Haodjnm.KotakDialogPermainan",
+                    "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan(im)initWithCoder:",
+            "mangledName": "$s7Haodjnm20KotakDialogPermainanC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Haodjnm@objc(cs)KotakDialogPermainan",
+        "mangledName": "$s7Haodjnm20KotakDialogPermainanC",
+        "moduleName": "Haodjnm",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ViewControllerContoh",
+        "printedName": "ViewControllerContoh",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Haodjnm@objc(cs)ViewControllerContoh(im)viewDidLoad",
+            "mangledName": "$s7Haodjnm20ViewControllerContohC11viewDidLoadyyF",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ViewControllerContoh",
+                "printedName": "Haodjnm.ViewControllerContoh",
+                "usr": "c:@M@Haodjnm@objc(cs)ViewControllerContoh"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)ViewControllerContoh(im)initWithNibName:bundle:",
+            "mangledName": "$s7Haodjnm20ViewControllerContohC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Haodjnm.ViewControllerContoh?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ViewControllerContoh",
+                    "printedName": "Haodjnm.ViewControllerContoh",
+                    "usr": "c:@M@Haodjnm@objc(cs)ViewControllerContoh"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Haodjnm@objc(cs)ViewControllerContoh(im)initWithCoder:",
+            "mangledName": "$s7Haodjnm20ViewControllerContohC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Haodjnm",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Haodjnm@objc(cs)ViewControllerContoh",
+        "mangledName": "$s7Haodjnm20ViewControllerContohC",
+        "moduleName": "Haodjnm",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC7HaodjnmE3hex5alphaABSi_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC7HaodjnmE3hex5alphaABSi_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hexString:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC7HaodjnmE9hexString5alphaABSgSS_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC7HaodjnmE9hexString5alphaABSgSS_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "Haodjnm",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIView",
+        "printedName": "UIView",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "findViewController",
+            "printedName": "findViewController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC7HaodjnmE18findViewControllerSo0aE0CSgyF",
+            "mangledName": "$sSo6UIViewC7HaodjnmE18findViewControllerSo0aE0CSgyF",
+            "moduleName": "Haodjnm",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIView",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIView",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/Xiemsje.swift",
+      "kind": "StringLiteral",
+      "offset": 673,
+      "length": 70,
+      "value": "\"X0NDR0QNGBgBDgQOBg5VAlQPUwIODgQAVlYHAQBTBQAZWlhUXFZHXhleWBhVRV5TUFJE\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/Xiemsje.swift",
+      "kind": "StringLiteral",
+      "offset": 832,
+      "length": 82,
+      "value": "\"X0NDR0QNGBhFVkAZUF5DX0JVQkRSRVRYWUNSWUMZVFhaGF1TQl1WGEZeVlgYWlZeWRhVRV5TXxldR1JQ\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/Xiemsje.swift",
+      "kind": "StringLiteral",
+      "offset": 2675,
+      "length": 6,
+      "value": "\"YmQ=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/Xiemsje.swift",
+      "kind": "StringLiteral",
+      "offset": 2697,
+      "length": 6,
+      "value": "\"eXs=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/Xiemsje.swift",
+      "kind": "FloatLiteral",
+      "offset": 4007,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/Xiemsje.swift",
+      "kind": "FloatLiteral",
+      "offset": 4302,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/FdoinahFajsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2676,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "Array",
+      "offset": 191,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 329,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 376,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 419,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 469,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 519,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 559,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 636,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 679,
+      "length": 3,
+      "value": "300"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 724,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 952,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "StringLiteral",
+      "offset": 1026,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1173,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1184,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1223,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1262,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1417,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1499,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "StringLiteral",
+      "offset": 1686,
+      "length": 16,
+      "value": "\"MULA PERMAINAN\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1778,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1919,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1960,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2070,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2081,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2121,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2161,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "StringLiteral",
+      "offset": 2289,
+      "length": 15,
+      "value": "\"BLOK MELOMPAT\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2352,
+      "length": 2,
+      "value": "42"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2548,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2559,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2598,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2637,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "StringLiteral",
+      "offset": 2765,
+      "length": 23,
+      "value": "\"SENTUH UNTUK MELOMPAT\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2836,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2916,
+      "length": 3,
+      "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17259,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17288,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17318,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 17472,
+      "length": 4,
+      "value": "0.95"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17512,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17618,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17629,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 17668,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17706,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17863,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18102,
+      "length": 2,
+      "value": "64"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18354,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "StringLiteral",
+      "offset": 18601,
+      "length": 13,
+      "value": "\"MAIN SEMULA\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18690,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18841,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18951,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18962,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "FloatLiteral",
+      "offset": 19002,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19042,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "StringLiteral",
+      "offset": 19174,
+      "length": 23,
+      "value": "\"🎉 REKOD BARU! 🎉\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19245,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1210-1\/Haodjnm\/Haodjnm\/PermainanBlokView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19367,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}
